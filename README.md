@@ -21,7 +21,7 @@ To find coroner center using open-api
 - xcode 14.3.1
 
    
-- API : 서울 공공 데이터 센터 코로나 예방접종 센터  (뉴스)
+- API : 서울 공공 데이터 센터 코로나 예방접종 센터  
 
 ## :pushpin: 주요 기능 
 
